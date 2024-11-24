@@ -151,25 +151,6 @@ python -m pytest python/des/des_test.py
 - These implementations are for educational purposes
 - Some algorithms (like Caesar Cipher) are not cryptographically secure
 
-## Contributing 🤝
-
-1. Fork the repository
-2. Create a feature branch
-   ```bash
-   git checkout -b feature/NewAlgorithm
-   ```
-3. Commit your changes
-4. Push to the branch
-5. Open a pull request
-
-## Future Enhancements 🚀
-
-- [ ] Add AES implementation
-- [ ] Implement more modern algorithms
-- [ ] Add performance benchmarking
-- [ ] Create GUI for algorithm demonstration
-- [ ] Add more comprehensive tests
-
 ## Documentation 📚
 
 Each algorithm implementation includes:
